@@ -1,0 +1,8 @@
+Nombre: Julieta Cabrera
+¿Qué es java?
+
+Es uno de los lenguajes de programación más usados actualmente, se constituye como un lenguaje orientado a objetos, su intención es permitir que los desarrolladores de aplicaciones escriban el programa una sola vez y lo ejecuten en cualquier dispositivo.
+
+¿Qué se puede hacer con Java?
+
+ Con java se pueden crear Programas, juegos y aplicaciones con distintos propósitos.

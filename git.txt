@@ -1,1 +1,9 @@
 Nombre: Julieta Cabrera
+¿Que es git?.
+
+ Git es una herramienta utilizada para gestionar repositorios tanto locales como remotos que está conectada directamente con GitHub.
+
+¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+ 
+ Puede serme muy útil en el caso que use distintos dispositivos para un trabajo o si estoy trabajando en un equipo es muy útil para que todos podamos trabajar en el mismo programa.
+
